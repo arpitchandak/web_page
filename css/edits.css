@@ -1,0 +1,85 @@
+
+img{
+    border-radius: 10%;
+}
+
+a{
+    color: powderblue;
+    text-shadow: white;
+    text-decoration: none;
+}
+
+h1{
+    font-family: serif;
+    font-style: normal;
+    font-family: monospace;
+    margin-top: 20px;
+}
+
+#a2{
+    text-align: center;
+}
+
+body{
+    height: 100%;
+}
+
+#a1 {
+margin: 10px auto 10px auto;
+
+border: 4px double #fff;
+background-image: url(https://picserio.com/data/out/175/anonymous-background-hd-wallpaper-anonymous_3916079.png);
+height: 100%;
+background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+
+}
+
+
+#a3{
+    
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+q{
+    font-family: serif;
+    font-style: italic;
+    color: blanchedalmond;
+    font-size: 23px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+ul.font{
+    width: 560px;
+    padding: 8px;
+    margin: 10px auto 10px auto;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    color: grey;
+    display: inline;
+    text-shadow: 2px 2px white;
+    font-size: 34px;
+    font-family: "georgia",fantasy,monospace;
+    text-align: center;
+}
+
+
+#a4{
+    margin-top: 30px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+#a5{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
